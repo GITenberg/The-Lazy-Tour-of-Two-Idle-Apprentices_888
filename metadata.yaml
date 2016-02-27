@@ -1,0 +1,40 @@
+_repo: The-Lazy-Tour-of-Two-Idle-Apprentices_888
+creator:
+  authors:
+  - agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+  - agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: A delightful meditation on the pleasures of bachelor bonding and an example
+  of collaborative journalism at its best In autumn 1857, Charles Dickens embarked
+  on a sightseeing trip to Cumberland with his friend, the rising star of literature
+  Wilkie Collins. Writing together, they reported their adventures for Dickens' periodical
+  Household Words, producing a showcase of both long-cherished and entirely novel
+  sides of these well-loved men of letters. Boasting two ghost stories from undisputed
+  masters of the genre, it also uniquely demonstrates their glee in caricaturing themselves
+  and one another
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Walking -- England -- Cumbria -- Fiction'
+- !lcsh 'Apprentices -- Fiction'
+- !lcsh 'Cumbria (England) -- Description and travel -- Fiction'
+title: The Lazy Tour of Two Idle Apprentices
+url: http://www.gutenberg.org/ebooks/888
