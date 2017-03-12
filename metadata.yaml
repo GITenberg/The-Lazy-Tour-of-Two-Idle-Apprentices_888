@@ -1,5 +1,8 @@
 _repo: The-Lazy-Tour-of-Two-Idle-Apprentices_888
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 888-h/images/coverb.jpg
 creator:
   authors:
   - agent_name: Collins, Wilkie
@@ -24,6 +27,8 @@ description: A delightful meditation on the pleasures of bachelor bonding and an
   sides of these well-loved men of letters. Boasting two ghost stories from undisputed
   masters of the genre, it also uniquely demonstrates their glee in caricaturing themselves
   and one another
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/888#The-Lazy-Tour-of-Two-Idle-Apprentices
 gutenberg_issued: '1997-04-01'
 gutenberg_type: Text
 identifiers:
