@@ -1,5 +1,5 @@
 _repo: The-Lazy-Tour-of-Two-Idle-Apprentices_888
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 888-h/images/coverb.jpg
@@ -42,5 +42,6 @@ subjects:
 - !lcsh 'Walking -- England -- Cumbria -- Fiction'
 - !lcsh 'Apprentices -- Fiction'
 - !lcsh 'Cumbria (England) -- Description and travel -- Fiction'
+- GITenberg
 title: The Lazy Tour of Two Idle Apprentices
 url: http://www.gutenberg.org/ebooks/888
